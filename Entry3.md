@@ -1,4 +1,4 @@
-# Using BNFC on windows
+# Using BNFC on Windows
 Similar to when I tried to install Haskell for the first time, I ran into enormous amounts of difficulty, spending hours trying various methods to run bnfc successfully on my machine
  After a while though, I found a solution that worked, and I wanted to share that solution to save others some trouble
 
