@@ -32,5 +32,5 @@ In your docker container, you need the following commmands(in this order):
 ## Testing BNFC
 Once the 3 of those are installed, you should be able to compile a context free grammar!  
 Navigate to the directory of the grammar in your docker container, and then from there you can run
-`bnfc -m --haskell <filename>`
+`bnfc -m --haskell <filename>`  
 If the file compiles successfully, congrats, you have properly installed BNFC!
