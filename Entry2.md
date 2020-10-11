@@ -6,14 +6,15 @@ that helped me gain a basic understanding of how to write code in haskell!
 
 
 ### Putting it in terms I know
-One of the biggest things that helped me understand the flow of programming in a functional language, compared to the imparative ones I had used exclusively up until this point,
+One of the biggest things that helped me understand the flow of programming in a functional language, compared to the imperative ones I had used exclusively up until this point,
 was to take basic operations and compare and contrast how they work in the two types of languages. 
 In an imparative language, multiplying 3*2 is as simple as just using the multiplication function, however in haskell and other functional languages, we have to think of it on
 a more basic level. We have to think about it as what math is involved in multiplying 3 and 2.  
 In the case of a simple function like multiplication, it is just adding 3+3!  
 
 ### Analogies to the rescue!
-Finding real world examples analogous to how functional programming languages worked was essential to my understanding. From my background in game design, I was able to come up with one that
+Finding real world examples analogous to how functional programming languages worked was essential to my understanding.  
+From my background in video game design, I was able to come up with one that
 really explained it well.  
 So lets say in a video game, I have a player and I want a player to take damage when they run into an enemy. In an imperative programming language, I would simply say:  
 `If player collides with enemy, player takes damage`  
