@@ -9,6 +9,8 @@ to figure out how to write a program, I was able to establish the rules and form
 the interpreter so that it could interpret the head and tail functions on lists.
 
 ## Picking up the pace
-Once I understand the basics of how the language, I need to learn how to structure my programs and write more advanced algorithms. To do that, I would normally look at examples of programs
-written by others to figure it out. However, this time I didn't have any real examples as it was a language we were creating. My understanding of writing more complex programs in our new language
-essentially came from lots of trial and error.
+Once I understand the basics of how the language, I need to learn how to structure my programs and write more advanced algorithms. To do that, I would normally look at examples of programs written by others to figure it out. However, this time I didn't have any real examples as it was a language we were creating. My understanding of writing more complex programs in our new language essentially came from lots of trial and error.
+
+
+## Putting it all together
+Eventually, that trial and error evovled into more competent programming, and I slowly was able to figure things out and build more and more complex programs. The end result was a successfull attempt at assignment 2!
