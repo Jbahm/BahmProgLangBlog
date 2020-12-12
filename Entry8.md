@@ -23,3 +23,11 @@ needed to implement them, I had more trouble. To rectify this, I again went and 
 for something more complex. My solution essentially was to just continue to grind through example after example equation, increasing them in complexity as I went.
 This solved all my issues with understanding, and when I looked back at the one I had struggled so desperatley to write for assignment 2, it seemed like it would be a cakewalk. Even to the point
 where I tried to recreate the solution using the stuff I learned through my studying.
+
+## Lambda Calculus
+Also related to parsing and precendence levels, was lambda calculus. Personally, attempting to understand lambda calculus the first time proved very difficult, and was definitley something that worried me throughout the course, however after taking a second look at it after trying to relearn the earlier concepts, I once again found it so much easier to follow!
+
+
+## Wrapping it up
+Revisiting all these old topics was a really interesting experience, and it was super helpful in getting ready for the final. I was also surprised with how much it helped my clarity on some of the newer topics from the course!                              
+
